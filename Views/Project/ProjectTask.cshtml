@@ -1,0 +1,26 @@
+@model ProjectManager.Dto.TaskListingViewModel
+    @{
+	Layout = null;
+}
+<h2>Tasks for @Model.ProjectName</h2>
+
+@if (Model.Tasks.Count > 0)
+{
+    <ul>
+        @foreach (var task in Model.Tasks)
+        {
+            <li>
+                <p><strong>Description:</strong> @task.Description</p>
+                <!-- You can display other task details here -->
+                @if (!string.IsNullOrEmpty(task.DocumentReference))
+        {
+            <a href="/Document/@task.DocumentReference" target="_blank">Details</a>
+        }
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No tasks found for this project.</p>
+}

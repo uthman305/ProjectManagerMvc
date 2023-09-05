@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProjectManager.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjectManager.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\Document\\c5e12289-0688-4df9-b466-39a25469fa99letter to huzoor.docx",
+      "PackagePath": "staticwebassets\\Document\\c5e12289-0688-4df9-b466-39a25469fa99letter to huzoor.docx"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\ProfilePictures\\075ff1f5-0b55-4c41-9649-417ce0ed8d0aScreenshot_20230629-205536.png",
+      "PackagePath": "staticwebassets\\ProfilePictures\\075ff1f5-0b55-4c41-9649-417ce0ed8d0aScreenshot_20230629-205536.png"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\ProfilePictures\\397859f2-bf73-4888-b969-261f1d06b97fScreenshot_20230629-205536.png",
+      "PackagePath": "staticwebassets\\ProfilePictures\\397859f2-bf73-4888-b969-261f1d06b97fScreenshot_20230629-205536.png"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\ProfilePictures\\56cfc936-dda8-440a-8f3d-45d7a39f8bbbScreenshot_20230629-205536.png",
+      "PackagePath": "staticwebassets\\ProfilePictures\\56cfc936-dda8-440a-8f3d-45d7a39f8bbbScreenshot_20230629-205536.png"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\ProfilePictures\\5fc4df42-097f-4053-9176-a39eaac97c06Screenshot_20230629-205536.png",
+      "PackagePath": "staticwebassets\\ProfilePictures\\5fc4df42-097f-4053-9176-a39eaac97c06Screenshot_20230629-205536.png"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\ProfilePictures\\73b0da36-63c0-4f53-8d09-fe2231795f6aScreenshot_20230629-205536.png",
+      "PackagePath": "staticwebassets\\ProfilePictures\\73b0da36-63c0-4f53-8d09-fe2231795f6aScreenshot_20230629-205536.png"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\ProfilePictures\\bcd20bcd-cb1d-47b4-9f2a-8b6816a2432fScreenshot_20230629-205536.png",
+      "PackagePath": "staticwebassets\\ProfilePictures\\bcd20bcd-cb1d-47b4-9f2a-8b6816a2432fScreenshot_20230629-205536.png"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\ProfilePictures\\c6ac6e8a-1c9d-46f2-96bd-d13e31d8806eScreenshot_20230629-205536.png",
+      "PackagePath": "staticwebassets\\ProfilePictures\\c6ac6e8a-1c9d-46f2-96bd-d13e31d8806eScreenshot_20230629-205536.png"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\ProfilePictures\\cb647326-e47f-4479-a88d-ee40a5319a31Screenshot_20230629-205536.png",
+      "PackagePath": "staticwebassets\\ProfilePictures\\cb647326-e47f-4479-a88d-ee40a5319a31Screenshot_20230629-205536.png"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\ProfilePictures\\dd307af5-42bd-4a6c-a30a-78a56227a085Screenshot_20230629-205536.png",
+      "PackagePath": "staticwebassets\\ProfilePictures\\dd307af5-42bd-4a6c-a30a-78a56227a085Screenshot_20230629-205536.png"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\ProfilePictures\\ee1519cc-e0e0-4185-9375-a5aa7c1a64efScreenshot_20230629-205536.png",
+      "PackagePath": "staticwebassets\\ProfilePictures\\ee1519cc-e0e0-4185-9375-a5aa7c1a64efScreenshot_20230629-205536.png"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\assets\\js\\jquery.scrolly.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrolly.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\assets\\js\\skel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\skel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\assets\\js\\util.js",
+      "PackagePath": "staticwebassets\\assets\\js\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\css\\signup.css",
+      "PackagePath": "staticwebassets\\css\\signup.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\images\\pic01.jpg",
+      "PackagePath": "staticwebassets\\images\\pic01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\images\\pic02.jpg",
+      "PackagePath": "staticwebassets\\images\\pic02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\images\\pic03.jpg",
+      "PackagePath": "staticwebassets\\images\\pic03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\images\\pic04.jpg",
+      "PackagePath": "staticwebassets\\images\\pic04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Uthman\\Desktop\\ProjectManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ProjectManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ProjectManager.props",
+      "PackagePath": "build\\ProjectManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectManager.props",
+      "PackagePath": "buildMultiTargeting\\ProjectManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ProjectManager.props",
+      "PackagePath": "buildTransitive\\ProjectManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

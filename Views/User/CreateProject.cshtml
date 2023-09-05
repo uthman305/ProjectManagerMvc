@@ -1,0 +1,47 @@
+@model ProjectManager.Dto.CreateProjectRequestModel
+@{
+    ViewData["Title"] = "Create Project";
+}
+@{
+	Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-5">
+                <div class="card">
+                    <h2 class="card-title text-center">Create Project</h2>
+                    <div class="card-body py-md-4">
+                        <form _lpchecked="1" asp-action="CreateProject" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="name" name="Name" placeholder="Project Name" asp-for="Name">
+                            </div>
+                
+
+                            <button class="btn btn-primary">Create Project</button>
+
+                        </form>
+                        @if (ViewData["JoinLink"] != null)
+{
+    <p>Share this link to invite others to join the project:</p>
+    <a href="@ViewData["JoinLink"]">@ViewData["JoinLink"]</a>
+}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

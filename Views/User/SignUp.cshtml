@@ -1,0 +1,73 @@
+﻿@model ProjectManager.Dto.CreateUserRequestModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-5">
+                <div class="card">
+                    <h2 class="card-title text-center">Register </h2>
+                    <div class="card-body py-md-4">
+                        <form _lpchecked="1" asp-action="SignUp" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="name" name="FirstName" placeholder="FirstName" asp-for="FirstName">
+                                <span asp-validation-for="FirstName" style="color: red;"> </span>
+                            </div>
+                            <div class="form-group">
+                                <input type="email" class="form-control" id="email" placeholder="Email" name="Email" asp-for="Email">
+                                <span asp-validation-for="Email" style="color: red;"> </span>
+                            </div>
+
+                            <div class="form-group">
+                                <input type="password" class="form-control" id="Password"
+                                       placeholder="Password" name="PassWord" asp-for="PassWord">
+                                       
+                            </div>
+
+                           
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="LastName"
+                                       placeholder="LastName" asp-for="LastName">
+                                       <span asp-validation-for="LastName" style="color: red;"> </span>
+                            </div>
+                            <div class="form-group">
+                                <input type="tel" class="form-control" id="PhoneNumber"
+                                       placeholder="Phone" name="PhoneNumber" asp-for="PhoneNumber">
+                            </div>
+                            <div class="form-group">
+                                <input type="file" class="form-control" id="FormFile"
+                                       placeholder="Image" name="FormFile" asp-for="FormFile">
+                            </div>
+
+                            
+
+
+                            <button class="btn btn-primary">Create Account</button>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
+
+@section Script{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,43 @@
+@model ProjectManager.Dto.JoinProjectRequestModel
+@{
+    ViewData["Title"] = "Create Project";
+}
+@{
+	Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-5">
+                <div class="card">
+                    <h2 class="card-title text-center">Join Project</a></h2>
+                    <div class="card-body py-md-4">
+                        <form _lpchecked="1" asp-action="JoinProject" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="name" name="ProjectId" placeholder="Project link" asp-for="ProjectId">
+                            </div>
+                
+
+                            <button class="btn btn-primary">Join Project</button>
+
+                        </form>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

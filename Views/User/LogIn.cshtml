@@ -1,0 +1,14 @@
+@model ProjectManager.Dto.LogInUserRequestModel
+@{
+    Layout = null;
+}
+
+<h3>Login</h3>
+@* <div style="color:chocolate">@ViewBag.NotSuccessful</div> *@
+<form asp-action="LogIn" >
+    Email Address: <input type="email" name="Email" asp-for="@Model.Email"/>
+    <br/>
+    Password: <input type="password" name="Password"  asp-for="@Model.PassWord"/>
+    <br/>
+    <input type="submit" value="Login" />
+</form>
